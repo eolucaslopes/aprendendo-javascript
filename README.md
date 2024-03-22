@@ -6,4 +6,4 @@ Iniciando os estudos com lógica de programação
 
 - [x] Iniciando com Javascript
     - [x] Guardando informações em variáveis
-    - [ ] Diferença entre var, let e const
+    - [ ] Strings e Numbers
