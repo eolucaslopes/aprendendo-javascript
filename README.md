@@ -6,4 +6,7 @@ Iniciando os estudos com lógica de programação
 
 - [x] Iniciando com Javascript
     - [x] Guardando informações em variáveis
-    - [ ] Operadores
+    - [x] Operadores
+    - [x] Undefined e null
+    - [x] Booleanos
+    - [ ] Trabalhando com Arrays
