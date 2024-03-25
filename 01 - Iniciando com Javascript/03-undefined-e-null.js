@@ -1,7 +1,13 @@
 // Diferença entre undefined e null
 
-//Undefined
+// Undefined - variável não definida
 
 let variavelSemInicializacao;
+
+console.log(variavelSemInicializacao)
+
+// Null - variável definida "vazio" para ser definida depois
+
+variavelSemInicializacao = null;
 
 console.log(variavelSemInicializacao)
