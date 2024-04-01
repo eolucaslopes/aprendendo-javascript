@@ -22,7 +22,6 @@ const soma3 = (valor1, valor2) => {
 console.log('Soma utilizando arrow function igual a', soma3(5, 4))
 
 // Forma 04
-
 const soma4 = (valor1, valor2) => valor1 + valor2
 
 console.log('Soma utilizando arrow function de forma reduzida é igual a', soma4(10, 10))
